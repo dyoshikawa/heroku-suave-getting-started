@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "heroku-suave-getting-started", "heroku-suave-getting-started.fsproj", "{ABE439C3-7146-42A0-A597-7495472A5FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE439C3-7146-42A0-A597-7495472A5FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE439C3-7146-42A0-A597-7495472A5FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE439C3-7146-42A0-A597-7495472A5FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE439C3-7146-42A0-A597-7495472A5FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
